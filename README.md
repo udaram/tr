@@ -41,11 +41,11 @@ Extracted Features are used for Classification using SVM and training time and a
 
 ## Accuracy V/s Threshold (no. of keypoints)
 ---
-![alt text](https://github.com/udaram/Image-Caption-Generator/blob/master/TestResults/Screenshot%20from%202019-09-11%2013-24-39.png)
+![alt text](https://github.com/udaram/tr/blob/main/accuracy.png)
 
 ## Time V/s Threshold (no. of keypoints)
 ---
-![alt text](https://github.com/udaram/Image-Caption-Generator/blob/master/TestResults/Screenshot%20from%202019-09-11%2013-24-39.png)
+![alt text](https://github.com/udaram/tr/blob/main/time.png)
 
 ## Accuracy of Final Model
 ---
@@ -53,7 +53,7 @@ Accuracy of Final Model 0.821780247635761
 
 ## Confusion Matrix for Final Model
 ---
-![alt text](https://github.com/udaram/Image-Caption-Generator/blob/master/TestResults/Screenshot%20from%202019-09-11%2013-24-39.png)
+![alt text](https://github.com/udaram/tr/blob/main/confusionmatrix.png)
 
 ## Conclusion
 ---
